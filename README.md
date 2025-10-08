@@ -1,25 +1,24 @@
-# TÍTULO DO PROJETO
+# TecnoLixo
 
-`CAMPUS/UNIDADE`
+CAMPUS LOURDES
 
-`CURSO`
+ENGENHARIA DA COMPUTAÇÂO
 
-`SEMESTRE`
+1° Semestre
 
-`DISCIPLINA`
+Laboratório de Introdução á Engenharia de Computação
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+1. João Pedro do Carmo Fernandes
+2. Pedro Valadares Bicalho
+3. Igor Luiz Santos de Lima
+4. Vitor Amaral Xavier David
 
 ## Orientador
 
-* Nome completo do professor 1
+Felipe Lara
 
 ## Resumo
 
