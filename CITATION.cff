@@ -1,24 +1,19 @@
 cff-version: 1.0.1
 message: "Please cite this project using these metadata."
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: do Carmo Fernandes
+    given-names: João Pedro
+  - family-names: Valadares Bicalho
+    given-names: Pedro
+  - family-names: Santos de Lima
+    given-names: Igor Luiz
+  - family-names: Amaral Xavier David
+    given-names: Vitor
   - name-suffix: "Professor"
-    given-names: 
-    family-names:
+    given-names: Felipe
+    family-names: Lara
     affiliation: "PUC Minas"
-title: ""
+title: "TecnoLixo – Lixeira Inteligente"
 version: 1.0.0
-date-released: 2024-01-14
-url: ""
-
+date-released: 2025-12-02
+url: "https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2025-2-p1-liec-t1-g1-tecnolixo"
