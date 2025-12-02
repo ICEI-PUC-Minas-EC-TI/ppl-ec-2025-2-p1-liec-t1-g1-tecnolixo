@@ -22,7 +22,7 @@ Felipe Lara
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+  O grupo se comprometeu a desenvolver uma lixeira tecnológica, que consegue detectar quando um lixo é descatartado e notifica no aplicativo, somando assim pontos que podem ser resgatados e trocados por recompensas.
 
 # Código (do arduino ou esp32)
 
