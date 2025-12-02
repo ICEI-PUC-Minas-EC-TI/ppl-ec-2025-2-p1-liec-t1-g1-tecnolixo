@@ -22,7 +22,7 @@ Felipe Lara
 
 ## Resumo
 
-  O grupo se comprometeu a desenvolver uma lixeira tecnológica, que consegue detectar quando um lixo é descatartado e notifica no aplicativo, somando assim pontos que podem ser resgatados e trocados por recompensas.
+  Uma lixeira inteligente que funciona por meio de sensores que detectam quando um objeto é descartado em seu interior, registrando automaticamente cada utilização. Ao identificar que um lixo foi jogado, o sistema envia essa informação para um aplicativo conectado, onde o usuário pode acompanhar seu desempenho em tempo real. Cada descarte válido gera um ponto no aplicativo, incentivando práticas sustentáveis e promovendo o engajamento por meio de recompensas digitais. Dessa forma, a lixeira não apenas coleta resíduos, mas também atua como uma ferramenta interativa de conscientização ambiental.
 
 # Código (do arduino ou esp32)
 
