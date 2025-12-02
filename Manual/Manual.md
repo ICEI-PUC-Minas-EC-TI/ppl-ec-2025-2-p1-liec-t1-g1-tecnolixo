@@ -73,7 +73,7 @@ TecnoLixo/
 ├─ App/          -> Código do aplicativo
 ├─ Documentacao/ -> Manuais e diagramas
 ├─ Fotos/        -> Imagens do projeto
-├─ README.md     -> Este arquivo
+├─ Manual.md     -> Este arquivo
 ```
 
 
