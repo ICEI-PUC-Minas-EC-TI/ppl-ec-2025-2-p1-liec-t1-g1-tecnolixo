@@ -3,24 +3,24 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O projeto foi desenvolvido em três etapas: O desenvolvimento do app, o desenvolvimento do hardware e a integração dos dois.A separação das tarefas levou em conta as habilidades de cada integrante, em que dois dos integrantes mais habilidosos com a plataforma de criação app ficarmam responsáveis pelo aplicativo e os que possuem habilidade com o hardware se responsabilizaram por ele. Contudo, a organização dessas tarefas foram feitas pessoalmente pelos intgrantes do grupo, principalmente nas dependências da PUC.
 
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
+-Scrum Master: João Pedro do Carmo Fernandes.
+Equipe de desenvolvimento:
+-Igor Luiz Santos de Lima
+-Pedro Valadares Bicalho
+-Victor Amaral Xavier David
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+O app foi desenvolvido principalmente por Pedro Valadares e Victor Amaral, e o hardware foi desenvolvido pelo João Pedro e pelo Igor Luiz. A integração dos dois foi feito pelo grupo inteiro.
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+ESP32 e MIT App inventor.
