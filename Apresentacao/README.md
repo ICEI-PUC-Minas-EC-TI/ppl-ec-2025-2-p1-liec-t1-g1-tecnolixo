@@ -1,3 +1,10 @@
 # Apresentação da Solução
 
-Use esta pasta para salvar o vídeo demonstrando o funcionamento do projeto e as fotos para documentação do mesmo.
+
+https://github.com/user-attachments/assets/387f9f7c-de6c-4374-98ef-5fa4688d6076
+
+
+
+
+https://github.com/user-attachments/assets/b47f0f7e-493b-4eee-9fe5-530efe72cc01
+
