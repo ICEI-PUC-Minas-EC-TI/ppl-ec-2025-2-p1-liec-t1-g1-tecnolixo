@@ -23,4 +23,4 @@ O app foi desenvolvido principalmente por Pedro Valadares e Victor Amaral, e o h
 
 As ferramentas utilizadas no projeto foram:
 
-ESP32 e MIT App inventor.
+ARDUINO IDE, Tinkercad e  MIT App inventor.
