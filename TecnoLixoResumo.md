@@ -18,7 +18,8 @@ Laboratório de Introdução á Engenharia de Computação
 
 ## Orientador
 
-Felipe Lara
+Felipe Lara e
+Cristiano Neves
 
 ## Resumo
 
