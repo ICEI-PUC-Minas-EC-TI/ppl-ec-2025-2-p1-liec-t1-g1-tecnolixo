@@ -2,11 +2,11 @@
 
 CAMPUS LOURDES
 
-ENGENHARIA DA COMPUTAÇÂO
+ENGENHARIA DE COMPUTAÇÂO
 
 1° Semestre
 
-Laboratório de Introdução á Engenharia de Computação
+Laboratório de Introdução à Engenharia de Computação
 
 
 ## Integrantes
@@ -18,8 +18,8 @@ Laboratório de Introdução á Engenharia de Computação
 
 ## Orientador
 
-Felipe Lara e
-Cristiano Neves
+1. Felipe Lara 
+2. Cristiano Neves
 
 ## Resumo
 
